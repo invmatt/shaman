@@ -1,13 +1,13 @@
 {
   "name": "shamangrid",
-  "version": "0.1.0",
+  "version": "0.3.3",
   "description": "A grid system based on CSSWizardry grids",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/invmatt/shaman.git"
   },
   "author": "invmatt",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/invmatt/shaman/issues"
   },
