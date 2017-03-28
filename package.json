@@ -1,0 +1,15 @@
+{
+  "name": "shamangrid",
+  "version": "0.1.0",
+  "description": "A grid system based on CSSWizardry grids",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invmatt/shaman.git"
+  },
+  "author": "invmatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/invmatt/shaman/issues"
+  },
+  "homepage": "https://github.com/invmatt/shaman#readme"
+}
