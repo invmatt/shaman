@@ -7,3 +7,31 @@ Shaman is a fork of [CSSWizardry Grids](https://github.com/csswizardry/csswizard
 - Minor tweaks and improvements
 
 `npm install shamangrid`
+
+### Settings
+
+Example settings:
+
+```scss
+$base-grid-size:                1100px;
+$mobile-first:                  true;
+$responsive:                    true;
+$gutter:                        14px;
+$use-silent-classes:            false;
+$push:                          true;
+$pull:                          false;
+$use-markup-fix:                false;
+$use-silent-classes:            false;
+
+$breakpoint-has-widths: ('tablet', 'desk')   !default;
+$breakpoint-has-push:   ('tablet', 'desk')   !default;
+$breakpoint-has-pull:   ('tablet', 'desk')   !default;
+
+$tablet-breakpoint:             48em;
+$desk-breakpoint:               68.75em;
+
+$grid-breakpoints: (
+    'tablet' '(min-width: $tablet-breakpoint)',
+    'desk' '(min-width: $desk-breakpoint)'
+) !default;
+```
