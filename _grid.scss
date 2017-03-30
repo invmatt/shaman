@@ -107,21 +107,6 @@ $GRID SETUP
 
 
 /**
-* Reversed grids allow you to structure your source in the opposite order to
-* how your rendered layout will appear. Extends `.grid`.
-*/
-#{$class-type}grid--rev {
-  direction:rtl;
-  text-align:left;
-
-  > #{$class-type}grid__item {
-    direction:ltr;
-    text-align:left;
-  }
-}
-
-
-/**
 * Gutterless grids have all the properties of regular grids, minus any spacing.
 * Extends `.grid`.
 */
