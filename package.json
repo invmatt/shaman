@@ -1,6 +1,6 @@
 {
   "name": "shamangrid",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "A grid system based on CSSWizardry grids",
   "repository": {
     "type": "git",
